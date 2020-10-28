@@ -1,0 +1,19 @@
+.ShowingList-container {
+ display: flex;
+ justify-content: center;
+ margin-top: 20px;
+}
+
+.ShowingList-data{
+font-weight: bold;
+}
+
+.showAll-button {
+ margin-left: 5px;
+ background: none;
+ border: none;
+ font-weight: bold;
+ font-size: 18px;
+ color: blue;
+ cursor: pointer;
+}
